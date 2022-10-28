@@ -1,0 +1,15 @@
+D:\c# code\access modifier protected\access modifier protected\bin\Debug\net6.0\access modifier protected.exe
+D:\c# code\access modifier protected\access modifier protected\bin\Debug\net6.0\access modifier protected.deps.json
+D:\c# code\access modifier protected\access modifier protected\bin\Debug\net6.0\access modifier protected.runtimeconfig.json
+D:\c# code\access modifier protected\access modifier protected\bin\Debug\net6.0\access modifier protected.dll
+D:\c# code\access modifier protected\access modifier protected\bin\Debug\net6.0\access modifier protected.pdb
+D:\c# code\access modifier protected\access modifier protected\obj\Debug\net6.0\access modifier protected.csproj.AssemblyReference.cache
+D:\c# code\access modifier protected\access modifier protected\obj\Debug\net6.0\access modifier protected.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# code\access modifier protected\access modifier protected\obj\Debug\net6.0\access modifier protected.AssemblyInfoInputs.cache
+D:\c# code\access modifier protected\access modifier protected\obj\Debug\net6.0\access modifier protected.AssemblyInfo.cs
+D:\c# code\access modifier protected\access modifier protected\obj\Debug\net6.0\access modifier protected.csproj.CoreCompileInputs.cache
+D:\c# code\access modifier protected\access modifier protected\obj\Debug\net6.0\access modifier protected.dll
+D:\c# code\access modifier protected\access modifier protected\obj\Debug\net6.0\refint\access modifier protected.dll
+D:\c# code\access modifier protected\access modifier protected\obj\Debug\net6.0\access modifier protected.pdb
+D:\c# code\access modifier protected\access modifier protected\obj\Debug\net6.0\access modifier protected.genruntimeconfig.cache
+D:\c# code\access modifier protected\access modifier protected\obj\Debug\net6.0\ref\access modifier protected.dll
